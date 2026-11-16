@@ -9,6 +9,14 @@ This project simulates a graduate admissions recruitment workflow, helping admis
 
 The application uses fictional student data and was developed as an independent portfolio project.
 
+## Live Demo
+
+Try the interactive Graduate Admissions CRM application:
+
+[Launch the CRM Application](https://graduate-admissions-crm-hind.streamlit.app/)
+
+*Note: This application uses fictional student data for demonstration purposes.*
+
 ## Key Features
 
 ### Recruitment Dashboard
