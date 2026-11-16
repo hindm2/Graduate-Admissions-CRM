@@ -1,0 +1,7 @@
+task_id,student_id,task_description,due_date,status
+2,1065,phone call,2026-11-19,Completed
+3,1060,phone call,2026-11-20,Completed
+4,1015,phone call,2026-11-20,Pending
+5,1047,Schedule advising meeting,2026-11-19,Pending
+6,1083,phone call,2026-11-20,Pending
+7,1083,phone call,2026-11-19,Pending

@@ -1,0 +1,101 @@
+student_id,first_name,last_name,program,recruitment_source,application_status,email
+1001,Emma,Martin,Management,Webinar,Enrolled,student1001@example.com
+1002,Lucas,Johnson,Business Analytics,Email Campaign,Admitted,student1002@example.com
+1003,Ava,Martin,Management,Website,Interested,student1003@example.com
+1004,Sophia,Smith,Accounting,Email Campaign,Enrolled,student1004@example.com
+1005,Sophia,Thomas,Management,Social Media,Applied,student1005@example.com
+1006,Mia,Thomas,Management,Website,Applied,student1006@example.com
+1007,Emma,Thomas,Business Analytics,Webinar,Applied,student1007@example.com
+1008,Ava,Anderson,Business Analytics,Social Media,Inquiry,student1008@example.com
+1009,Olivia,Wilson,Management,Webinar,Enrolled,student1009@example.com
+1010,Emma,Thomas,Business Analytics,Website,Inquiry,student1010@example.com
+1011,James,Brown,Management,Referral,Inquiry,student1011@example.com
+1012,Ethan,Thomas,Accounting,Referral,Interested,student1012@example.com
+1013,Lucas,Taylor,Business Analytics,Website,Applied,student1013@example.com
+1014,Lucas,Wilson,Management,Webinar,Inquiry,student1014@example.com
+1015,Lucas,Taylor,Accounting,Webinar,Inquiry,student1015@example.com
+1016,Lucas,Taylor,Management,Referral,Admitted,student1016@example.com
+1017,James,Smith,Online MBA,Referral,Enrolled,student1017@example.com
+1018,Liam,Johnson,Online MBA,Referral,Inquiry,student1018@example.com
+1019,Mia,Brown,Management,Email Campaign,Interested,student1019@example.com
+1020,Sophia,Johnson,Business Analytics,Referral,Applied,student1020@example.com
+1021,James,Wilson,Online MBA,Webinar,Enrolled,student1021@example.com
+1022,Noah,Anderson,Management,Website,Admitted,student1022@example.com
+1023,Liam,Anderson,Accounting,Referral,Admitted,student1023@example.com
+1024,Ethan,Wilson,Online MBA,Email Campaign,Applied,student1024@example.com
+1025,Lucas,Martin,Accounting,Email Campaign,Applied,student1025@example.com
+1026,Ava,Taylor,Management,Webinar,Inquiry,student1026@example.com
+1027,Sophia,Smith,Business Analytics,Webinar,Enrolled,student1027@example.com
+1028,Mia,Thomas,Accounting,Website,Enrolled,student1028@example.com
+1029,James,Taylor,Accounting,Website,Applied,student1029@example.com
+1030,Sophia,Anderson,Online MBA,Social Media,Admitted,student1030@example.com
+1031,Sophia,Taylor,Management,Social Media,Inquiry,student1031@example.com
+1032,Olivia,Taylor,Business Analytics,Webinar,Admitted,student1032@example.com
+1033,Emma,Smith,Online MBA,Webinar,Enrolled,student1033@example.com
+1034,James,Taylor,Business Analytics,Email Campaign,Inquiry,student1034@example.com
+1035,Mia,Thomas,Management,Social Media,Applied,student1035@example.com
+1036,Emma,Davis,Accounting,Email Campaign,Inquiry,student1036@example.com
+1037,Mia,Anderson,Accounting,Email Campaign,Applied,student1037@example.com
+1038,Mia,Smith,Management,Webinar,Enrolled,student1038@example.com
+1039,Olivia,Davis,Management,Webinar,Inquiry,student1039@example.com
+1040,Ava,Wilson,Accounting,Email Campaign,Interested,student1040@example.com
+1041,Liam,Lee,Online MBA,Referral,Enrolled,student1041@example.com
+1042,Lucas,Brown,Accounting,Webinar,Interested,student1042@example.com
+1043,Lucas,Brown,Online MBA,Referral,Inquiry,student1043@example.com
+1044,Noah,Wilson,Accounting,Social Media,Applied,student1044@example.com
+1045,Emma,Lee,Accounting,Email Campaign,Applied,student1045@example.com
+1046,Ethan,Martin,Online MBA,Webinar,Admitted,student1046@example.com
+1047,Sophia,Smith,Business Analytics,Email Campaign,Interested,student1047@example.com
+1048,Mia,Brown,Management,Email Campaign,Enrolled,student1048@example.com
+1049,Ava,Martin,Business Analytics,Website,Applied,student1049@example.com
+1050,Lucas,Smith,Online MBA,Website,Interested,student1050@example.com
+1051,Lucas,Martin,Online MBA,Social Media,Enrolled,student1051@example.com
+1052,Liam,Brown,Management,Website,Enrolled,student1052@example.com
+1053,Noah,Lee,Online MBA,Webinar,Applied,student1053@example.com
+1054,Sophia,Brown,Management,Social Media,Inquiry,student1054@example.com
+1055,Sophia,Wilson,Accounting,Email Campaign,Applied,student1055@example.com
+1056,Emma,Anderson,Online MBA,Email Campaign,Applied,student1056@example.com
+1057,James,Johnson,Accounting,Website,Inquiry,student1057@example.com
+1058,Liam,Taylor,Online MBA,Email Campaign,Admitted,student1058@example.com
+1059,Lucas,Taylor,Online MBA,Website,Enrolled,student1059@example.com
+1060,Ava,Thomas,Accounting,Referral,Inquiry,student1060@example.com
+1061,Ethan,Lee,Business Analytics,Email Campaign,Admitted,student1061@example.com
+1062,Lucas,Anderson,Online MBA,Email Campaign,Inquiry,student1062@example.com
+1063,Noah,Wilson,Management,Webinar,Admitted,student1063@example.com
+1064,Ethan,Wilson,Business Analytics,Email Campaign,Applied,student1064@example.com
+1065,Sophia,Wilson,Business Analytics,Website,Inquiry,student1065@example.com
+1066,Noah,Martin,Accounting,Social Media,Enrolled,student1066@example.com
+1067,Ethan,Davis,Management,Social Media,Inquiry,student1067@example.com
+1068,Noah,Johnson,Management,Webinar,Applied,student1068@example.com
+1069,Emma,Davis,Accounting,Website,Inquiry,student1069@example.com
+1070,Sophia,Smith,Accounting,Referral,Enrolled,student1070@example.com
+1071,Lucas,Johnson,Management,Webinar,Admitted,student1071@example.com
+1072,Liam,Smith,Online MBA,Referral,Enrolled,student1072@example.com
+1073,Sophia,Thomas,Online MBA,Social Media,Applied,student1073@example.com
+1074,Liam,Thomas,Business Analytics,Webinar,Applied,student1074@example.com
+1075,Ava,Anderson,Management,Email Campaign,Admitted,student1075@example.com
+1076,Sophia,Wilson,Management,Website,Admitted,student1076@example.com
+1077,Noah,Thomas,Management,Referral,Enrolled,student1077@example.com
+1078,Olivia,Johnson,Business Analytics,Referral,Inquiry,student1078@example.com
+1079,James,Lee,Online MBA,Webinar,Admitted,student1079@example.com
+1080,Ava,Taylor,Online MBA,Webinar,Inquiry,student1080@example.com
+1081,Ethan,Lee,Management,Website,Interested,student1081@example.com
+1082,Sophia,Johnson,Management,Email Campaign,Enrolled,student1082@example.com
+1083,Liam,Wilson,Accounting,Email Campaign,Interested,student1083@example.com
+1084,Mia,Anderson,Management,Webinar,Admitted,student1084@example.com
+1085,Ava,Wilson,Management,Website,Applied,student1085@example.com
+1086,Lucas,Wilson,Business Analytics,Website,Interested,student1086@example.com
+1087,Emma,Johnson,Online MBA,Website,Interested,student1087@example.com
+1088,Noah,Davis,Accounting,Email Campaign,Applied,student1088@example.com
+1089,Lucas,Brown,Accounting,Email Campaign,Admitted,student1089@example.com
+1090,Mia,Davis,Management,Website,Admitted,student1090@example.com
+1091,Sophia,Anderson,Business Analytics,Referral,Enrolled,student1091@example.com
+1092,Mia,Anderson,Management,Website,Enrolled,student1092@example.com
+1093,Mia,Anderson,Business Analytics,Webinar,Admitted,student1093@example.com
+1094,Noah,Davis,Management,Social Media,Admitted,student1094@example.com
+1095,Mia,Lee,Accounting,Referral,Interested,student1095@example.com
+1096,Olivia,Smith,Accounting,Email Campaign,Applied,student1096@example.com
+1097,Olivia,Davis,Business Analytics,Website,Inquiry,student1097@example.com
+1098,Ava,Johnson,Management,Website,Interested,student1098@example.com
+1099,Ava,Davis,Management,Webinar,Enrolled,student1099@example.com
+1100,Liam,Lee,Online MBA,Webinar,Applied,student1100@example.com
