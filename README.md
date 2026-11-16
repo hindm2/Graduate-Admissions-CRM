@@ -75,3 +75,15 @@ It combines interactive dashboards, student engagement tracking, data management
 - User authentication
 - Automated follow-up reminders
 - Additional recruitment analytics
+  
+## Application Screenshots
+
+### Recruitment Dashboard
+![Recruitment Dashboard](dashboard1.png)
+
+### Student Records and Task Overview
+![Student Records](dashboard2.png)
+
+### Recruitment Activities and Follow-Up Tasks
+![Recruitment Activities](dashboard3.png)
+
